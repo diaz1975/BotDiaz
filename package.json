@@ -1,5 +1,5 @@
 {
-"name": "KatashiBot-MD",
+"name": "DiazBot-v1",
 "version": "1.7.0", 
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -19,7 +19,7 @@
     
 "homepage": "https://github.com/KatashiFukushima/KatashiBot-MD",
 "author": {
-"name": "KatashiFukushima" },
+"name": "Díaz Mod" },
     
 "repository": {
 "type": "git",
